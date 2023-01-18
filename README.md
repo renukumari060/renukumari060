@@ -32,16 +32,6 @@ Delicious Appetite <a href='https://github.com/renukumari060/DeliciousAppetite_f
 
 I decided to challenge myself and in 10 days I created a prototype of a Delicious Appetite. My project is about recipe videos, where we can keep a collection of favorite youtube videos. Actually I often find myself searching for one specific video that I already tried in past and liked the recipe. But sometime it is difficult to find the same one. So I made this website, where you can make a collection of youtube videos, and also can see the other users'  added videos.
 
-## My GitHub Status:
-
-![Renu's GitHub stats](https://github-readme-stats.vercel.app/api?username=renukumari060&show_icons=true&theme=radical)
-[![Renu's GitHub stats](https://github-readme-stats.vercel.app/api?username=renukumari060)](https://github.com/renukumari060/github-readme-stats)
-
-</br>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renukumari060&layout=compact&show_icons=true&theme=radical)
-
 
 </br>
 </br>
