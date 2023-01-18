@@ -35,6 +35,7 @@ I decided to challenge myself and in 10 days I created a prototype of a Deliciou
 ## My GitHub Status:
 
 ![Renu's GitHub stats](https://github-readme-stats.vercel.app/api?username=renukumari060&show_icons=true&theme=radical)
+[![Renu's GitHub stats](https://github-readme-stats.vercel.app/api?username=renukumari060)](https://github.com/renukumari060/github-readme-stats)
 
 </br>
 
